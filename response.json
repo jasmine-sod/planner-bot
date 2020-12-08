@@ -1,0 +1,38 @@
+{
+    "data" : {
+        "cards" : [
+            {
+                "card" : "1",
+                "title" : "Weather",
+                "data" : {
+                    "temp" : -1,
+                    "type" : "Sunny"
+                }
+            },
+            {
+                "card": "2",
+                "title" : "Places to Visit", 
+                "data": [
+                    "",
+                    ""
+                ]
+            },
+            {
+                "card": "3", 
+                "title": "Hotels/FLights",
+                "data": [
+                    {
+                        "name" : "Vistara",
+                        "time" : "2h 5m",
+                        "price" : "Rs. 3,660"
+                    },
+                    {
+                        "name" : "Vistara",
+                        "time" : "2h 5m",
+                        "price" : "Rs. 3,660"
+                    }
+                ]
+            }
+        ]
+    }
+}
